@@ -1,4 +1,4 @@
-# 🌵 Retro Cyberpunk Cactus Display (ESP32-S3)
+# 🌵 Retro Cactus Display (ESP32-S3)
 
 An interactive smart desk companion built on the **ESP32-S3 (JC4827W543 4.3" 480x272 display)** featuring a pixel-art cactus monitor, live internet radio tuner, and live ADS-B flight radar.
 
